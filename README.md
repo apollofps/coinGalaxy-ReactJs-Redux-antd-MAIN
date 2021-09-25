@@ -1,6 +1,6 @@
 # CoinGalaxy - Explore the World of Cryptocurrency
 
-![Cryptoverse](https://ibb.co/JzfZ5WJ)
+(https://ibb.co/JzfZ5WJ)
 
 ## Introduction
 
