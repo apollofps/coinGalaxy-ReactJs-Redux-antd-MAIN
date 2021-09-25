@@ -7,4 +7,4 @@
 Setup:
 - run ```npm i && npm start``` to start the development server
 
-https://coingalaxy.netlify.app/exchanges
+https://coingalaxy.netlify.app/
