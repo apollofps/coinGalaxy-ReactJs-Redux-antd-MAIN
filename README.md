@@ -1,4 +1,4 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# CoinGalaxy - Explore the World of Cryptocurrency
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
@@ -12,5 +12,3 @@ By the end of this video, you will become the master of working with APIs.
 Setup:
 - run ```npm i && npm start``` to start the development server
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
